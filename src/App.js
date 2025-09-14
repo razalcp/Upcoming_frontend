@@ -7,8 +7,7 @@ import EventCreator from "./components/organizer/EventCreator";
 import Attendees from "./components/organizer/Attendees";
 import Tickets from "./components/organizer/Tickets";
 import OrganizerSignup from "./components/organizer/OrganizerSignup";
-// import OrganizerLogin from "./components/organizer/organizerLogin";
-// In src/App.js
+
 import OrganizerLogin from "./components/organizer/OrganizerLogin";
 
 
@@ -62,6 +61,6 @@ const AppRouter = createBrowserRouter([
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 
-// root.render(<RouterProvider router={AppRouter} />)
+root.render(<RouterProvider router={AppRouter} />)
 
-export default <RouterProvider router={AppRouter} />;
+
