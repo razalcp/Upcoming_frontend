@@ -10,6 +10,7 @@
   "author": "Razal Nazim",
   "license": "ISC",
   "dependencies": {
+    "parcel": "^2.15.4",
     "axios": "^1.12.0",
     "formik": "^2.4.6",
     "lucide-react": "^0.544.0",
@@ -24,7 +25,7 @@
     "@tailwindcss/postcss": "^4.1.13",
     "autoprefixer": "^10.4.21",
     "buffer": "^6.0.3",
-    "parcel": "^2.15.4",
+    
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.10"
   }
