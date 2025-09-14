@@ -1,19 +1,19 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import ReactDOM from 'react-dom/client'
-import OrganizerApplayout from "./OrganizerApp"
-import OrganizerHome from "./components/organizer/OrganizerHome"
+import OrganizerApplayout from "./src/OrganizerApp"
+import OrganizerHome from "./src/components/organizer/OrganizerHome"
 import "../index.css";
-import EventCreator from "./components/organizer/EventCreator";
-import Attendees from "./components/organizer/Attendees";
-import Tickets from "./components/organizer/Tickets";
-import OrganizerSignup from "./components/organizer/OrganizerSignup";
+import EventCreator from "./src/components/organizer/EventCreator";
+import Attendees from "./src/components/organizer/Attendees";
+import Tickets from "./src/components/organizer/Tickets";
+import OrganizerSignup from "./src/components/organizer/OrganizerSignup";
 // import OrganizerLogin from "./components/organizer/organizerLogin";
 // In src/App.js
-import OrganizerLogin from "./components/organizer/OrganizerLogin";
+import OrganizerLogin from "./src/components/organizer/OrganizerLogin";
 
 
 
-import OrganizerProtectedRoute from "./components/organizer/OrganizerProtctedRoute";
+import OrganizerProtectedRoute from "./src/components/organizer/OrganizerProtctedRoute";
 
 const AppRouter = createBrowserRouter([
     {
