@@ -4,6 +4,7 @@
   "description": "upcoming events management frontend",
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./",
     "test": "jest"
   },
   "author": "Razal Nazim",
