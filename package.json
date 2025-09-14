@@ -2,11 +2,11 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "upcoming events management frontend",
-  "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --public-url ./",
-    "test": "jest"
-  },
+"scripts": {
+  "start": "parcel index.html",
+  "build": "parcel build index.html --public-url ./"
+}
+,
   "author": "Razal Nazim",
   "license": "ISC",
   "dependencies": {
