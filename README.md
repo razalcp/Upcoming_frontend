@@ -1,9 +1,5 @@
 # Upcoming Organizer
 
-![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?logo=typescript)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb)
-![Express](https://img.shields.io/badge/Express-4.18-lightgrey?logo=express)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Parcel](https://img.shields.io/badge/Parcel-brown?logo=parcel)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
