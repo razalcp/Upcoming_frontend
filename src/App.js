@@ -7,7 +7,10 @@ import EventCreator from "./components/organizer/EventCreator";
 import Attendees from "./components/organizer/Attendees";
 import Tickets from "./components/organizer/Tickets";
 import OrganizerSignup from "./components/organizer/OrganizerSignup";
-import OrganizerLogin from "./components/organizer/organizerLogin";
+// import OrganizerLogin from "./components/organizer/organizerLogin";
+// In src/App.js
+import OrganizerLogin from "./components/organizer/OrganizerLogin";
+
 
 
 import OrganizerProtectedRoute from "./components/organizer/OrganizerProtctedRoute";
